@@ -1,7 +1,7 @@
 // GameOverMain.cpp
 #include <stdio.h>
 
-void main()
+void merong()
 {
 	printf("Game Over!\n");
 }
